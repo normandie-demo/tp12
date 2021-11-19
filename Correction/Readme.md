@@ -12,3 +12,5 @@ vi init.yaml
 ```Shell
 ansible-playbook -i inventory init.yaml
 ```
+
+Lien vers le dossier [corrections](../Correction)
